@@ -1,4 +1,4 @@
-Comb Sort implemented in Singly Linked List
+**Comb Sort implemented in Singly Linked List**
 
         Task description:
 
@@ -21,9 +21,10 @@ Comb Sort implemented in Singly Linked List
                 The algorithm is not stable (like most of the fast algorithms). This means that items of the
                 same value can be rearranged.
     
-                An interesting element of the method is the number 1.3, which is divided by subsequent
-                distances. The correctness of the algorithm is not dependent on the value of this coefficient,
-                but it is a critical factor when it comes to its speed.
+An interesting element of the method is the number 1.3, which is divided by subsequent
+distances. The correctness of the algorithm is not dependent on the value of this coefficient,
+but it is a critical factor when it comes to its speed.
                 
-    ![Optional Text](../master/Flowchart.png)
-    
+       Flowchart :
+        
+![Flowchart](https://user-images.githubusercontent.com/60195641/88062413-1571b700-cb69-11ea-979f-2fbeac658da5.png)
