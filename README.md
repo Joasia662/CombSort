@@ -9,11 +9,13 @@
         Short sorting description:
         
                 Comb Sort is based on the idea of bubble sorting. The difference, however, is to make
-                substitutions in a different way - we try to move all large elements to the very end in each iteration
+                substitutions in a different way - we try to move all large elements to the very end 
+                in each iteration
   
         Short algorithm description :
 
-                ● The span is taken as the length of the array, divides the span by 1.3, rejects the fractional part.
+                ● The span is taken as the length of the array, divides the span by 1.3, rejects the 
+                  fractional part.
     
                 ● All pairs of objects distant by a span are examined in turn (if they are arranged
                   non-monotonically, they are exchanged).
